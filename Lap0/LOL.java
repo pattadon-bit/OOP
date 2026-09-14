@@ -1,7 +1,7 @@
 package Lap0;
 
-public class HelloWold {
+public class LOL {
     public static void main(String[] args) {
-        System.out.println("kuy pond");
+        System.out.println("kuypond");
     }
 }
