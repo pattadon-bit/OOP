@@ -2,6 +2,6 @@ package Lap0;
 
 public class HelloWold {
     public static void main(String[] args) {
-        System.out.println("kuy pond");
+        System.out.println("Hello pond");
     }
 }
